@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KinoG.API", "KinoG.API\KinoG.API.csproj", "{5B1A9A5B-05A7-49ED-A730-11A64480ACF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinoG.DAL", "KinoG.DAL\KinoG.DAL.csproj", "{6F09AD60-E6A5-42ED-B6CB-5FBC5BC55551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinoG.BL", "KinoG.BL\KinoG.BL.csproj", "{51E73169-3F22-4299-A16B-15919890F9E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B1A9A5B-05A7-49ED-A730-11A64480ACF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1A9A5B-05A7-49ED-A730-11A64480ACF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1A9A5B-05A7-49ED-A730-11A64480ACF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1A9A5B-05A7-49ED-A730-11A64480ACF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F09AD60-E6A5-42ED-B6CB-5FBC5BC55551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F09AD60-E6A5-42ED-B6CB-5FBC5BC55551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F09AD60-E6A5-42ED-B6CB-5FBC5BC55551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F09AD60-E6A5-42ED-B6CB-5FBC5BC55551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E73169-3F22-4299-A16B-15919890F9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E73169-3F22-4299-A16B-15919890F9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E73169-3F22-4299-A16B-15919890F9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E73169-3F22-4299-A16B-15919890F9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9DFAD2-03D8-4550-87EC-40B27F2C3959}
+	EndGlobalSection
+EndGlobal
